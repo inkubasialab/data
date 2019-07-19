@@ -1,0 +1,102 @@
+product_id,product_class_id,brand_name,product_name,price
+500,61,Tell Tale,Tell Tale Baby Onion,2.6600
+502,61,Tell Tale,Tell Tale Fresh Lima Beans,3.1700
+504,99,Tell Tale,Tell Tale Limes,1.8400
+506,1,Tell Tale,Tell Tale Almonds,3.6800
+508,99,Tell Tale,Tell Tale Golden Delcious Apples,3.7900
+510,99,Tell Tale,Tell Tale Lemons,0.6100
+512,99,Tell Tale,Tell Tale Plums,2.7400
+514,61,Tell Tale,Tell Tale Broccoli,1.8100
+516,1,Tell Tale,Tell Tale Mixed Nuts,1.8500
+518,61,Tell Tale,Tell Tale Sweet Onion,1.3600
+520,99,Tell Tale,Tell Tale Honey Dew,2.8000
+522,1,Tell Tale,Tell Tale Walnuts,1.6300
+524,99,Tell Tale,Tell Tale Tangerines,1.7400
+526,24,Kiwi,Kiwi Lox,2.2500
+528,45,Fast,Fast Low Fat Cookies,0.9600
+530,12,Fast,Fast Corn Chips,3.7600
+532,45,Fast,Fast Sugar Cookies,3.8700
+534,45,Fast,Fast Fudge Cookies,3.3800
+536,12,Fast,Fast Potato Chips,1.8200
+538,45,Fast,Fast Graham Crackers,0.9300
+540,54,Fast,Fast Buttered Popcorn,0.5100
+542,54,Fast,Fast Low Fat Popcorn,1.5100
+544,83,Fast,Fast Avocado Dip,2.9500
+546,83,Fast,Fast Cheese Dip,2.7800
+548,84,Fast,Fast Mini Donuts,2.9000
+550,84,Fast,Fast Chocolate Donuts,2.4000
+552,82,Fast,Fast Sesame Crackers,0.5500
+554,109,Fast,Fast Dried Apples,3.1400
+556,109,Fast,Fast Strawberry Fruit Roll,3.2500
+558,109,Fast,Fast Grape Fruit Roll,0.8000
+560,109,Fast,Fast Raisins,1.2000
+562,109,Fast,Fast Dried Apricots,0.5900
+564,36,Atomic,Atomic Tasty Candy Bar,0.6600
+566,36,Atomic,Atomic Malted Milk Balls,1.7800
+568,37,Atomic,Atomic Bubble Gum,3.3300
+570,38,Atomic,Atomic Mints,2.1600
+572,5,Shady Lake,Shady Lake Ravioli,2.5100
+574,5,Shady Lake,Shady Lake Spaghetti,2.6700
+576,57,Shady Lake,Shady Lake Rice Medly,0.7000
+578,44,Walrus,Walrus Light Wine,2.2900
+580,44,Walrus,Walrus Chablis Wine,2.4100
+582,44,Walrus,Walrus Chardonnay,3.8000
+584,43,Walrus,Walrus Light Beer,2.5900
+586,27,Colony,Colony White Bread,1.4200
+588,26,Colony,Colony English Muffins,1.5400
+590,26,Colony,Colony Muffins,1.9300
+592,26,Colony,Colony Blueberry Muffins,2.4800
+594,49,Landslide,Landslide Sesame Oil,0.5800
+596,51,Landslide,Landslide Hot Chocolate,0.6400
+598,50,Landslide,Landslide White Sugar,1.5200
+600,90,Landslide,Landslide Decaf Coffee,2.3100
+602,49,Landslide,Landslide Vegetable Oil,2.1400
+604,48,Landslide,Landslide Tomato Sauce,1.2500
+606,33,Landslide,Landslide Grape Preserves,2.6500
+608,31,Landslide,Landslide Strawberry Jelly,0.6800
+610,33,Landslide,Landslide Low Fat Apple Butter,2.2700
+612,33,Landslide,Landslide Apple Butter,2.3800
+614,31,Landslide,Landslide Apple Jelly,3.7800
+616,32,Landslide,Landslide Apple Jam,1.3300
+618,53,Landslide,Landslide Creamy Peanut Butter,1.4000
+620,53,Landslide,Landslide Extra Chunky Peanut Butter,0.7300
+622,31,Landslide,Landslide Grape Jelly,0.8100
+624,52,Token,Token Mango Drink,2.4600
+626,19,Token,Token Cream Soda,1.2900
+628,19,Token,Token Cola,1.4000
+630,30,Token,Token Orange Juice,2.8000
+632,30,Token,Token Apple Juice,0.8300
+634,35,Radius,Radius Oatmeal,2.5300
+636,35,Radius,Radius Wheat Puffs,2.6400
+638,62,Bravo,Bravo Canned Beets,3.1500
+640,62,Bravo,Bravo Canned String Beans,2.5900
+642,62,Bravo,Bravo Canned Yams,1.6600
+644,62,Bravo,Bravo Canned Tomatos,0.8700
+646,58,Bravo,Bravo Regular Ramen Soup,1.2800
+648,58,Bravo,Bravo Turkey Noodle Soup,2.7200
+650,62,Bravo,Bravo Canned Peas,1.5500
+652,93,Bravo,Bravo Canned Tuna in Water,1.6700
+654,94,Bravo,Bravo Large Canned Shrimp,2.1700
+656,96,Bravo,Bravo Fancy Canned Clams,3.8500
+658,98,Bravo,Bravo Fancy Canned Sardines,2.6800
+660,3,Applause,Applause Canned Mixed Fruit,2.8000
+662,89,Prelude,Prelude Rosy Sunglasses,2.3000
+664,102,Akron,Akron City Map,1.7400
+666,14,Gorilla,Gorilla Low Fat Sour Cream,0.8900
+668,11,Gorilla,Gorilla Jack Cheese,3.9300
+670,11,Gorilla,Gorilla String Cheese,1.7900
+672,11,Gorilla,Gorilla Havarti Cheese,3.3400
+674,11,Gorilla,Gorilla Cheese Spread,3.1800
+676,11,Gorilla,Gorilla Mild Cheddar Cheese,3.2900
+678,76,Gorilla,Gorilla 2% Milk,3.6900
+680,76,Gorilla,Gorilla Chocolate Milk,1.4700
+682,76,Gorilla,Gorilla Whole Milk,0.6100
+684,6,Gorilla,Gorilla Blueberry Yogurt,0.6800
+686,91,Cutting Edge,Cutting Edge Pimento Loaf,1.8200
+688,91,Cutting Edge,Cutting Edge Low Fat Bologna,2.3700
+690,81,Cutting Edge,Cutting Edge Foot-Long Hot Dogs,1.4400
+692,16,Cutting Edge,Cutting Edge Cole Slaw,1.5500
+694,8,Cutting Edge,Cutting Edge Corned Beef,2.9500
+696,8,Cutting Edge,Cutting Edge Sliced Ham,0.7200
+698,8,Cutting Edge,Cutting Edge Sliced Chicken,2.3300
+700,66,Jumbo,Jumbo Large Brown Eggs,2.6800

@@ -1,0 +1,152 @@
+product_id,product_class_id,brand_name,product_name,price
+700,66,Jumbo,Jumbo Large Brown Eggs,2.6800
+702,66,Jumbo,Jumbo Large Eggs,3.8400
+704,34,Imagine,Imagine Low Fat Waffles,1.6300
+706,100,Imagine,Imagine Frozen Chicken Breast,3.4600
+708,63,Imagine,Imagine Low Fat French Fries,3.6800
+710,34,Imagine,Imagine Blueberry Waffles,1.1900
+712,34,Imagine,Imagine Waffles,3.8700
+714,64,Imagine,Imagine Frozen Cheese Pizza,2.7000
+716,34,Imagine,Imagine Apple Cinnamon Waffles,1.8100
+718,10,Imagine,Imagine Turkey TV Dinner,2.3200
+720,10,Imagine,Imagine Beef TV Dinner,0.8600
+722,110,Imagine,Imagine Grape Popsicles,2.8300
+724,110,Imagine,Imagine Lime Popsicles,2.9400
+726,9,Imagine,Imagine Ice Cream Sandwich,3.2100
+728,60,Imagine,Imagine Frozen Broccoli,1.8900
+730,60,Imagine,Imagine Frozen Peas,1.7200
+732,100,Imagine,Imagine Frozen Chicken Thighs,0.9100
+734,110,Imagine,Imagine Lemon Popsicles,0.6300
+736,39,Consolidated,Consolidated Tartar Control Toothpaste,2.1300
+738,39,Consolidated,Consolidated Toothpaste,1.8500
+740,79,Consolidated,Consolidated Conditioning Shampoo,1.9700
+742,88,Consolidated,Consolidated Angled Toothbrush,2.4700
+744,70,Consolidated,Consolidated Childrens Aspirin,3.9100
+746,71,Consolidated,Consolidated 200 MG Ibuprofen,3.9800
+748,73,Consolidated,Consolidated HCL Nasal Spray,2.2000
+750,75,Consolidated,Consolidated Multi-Symptom Cold Remedy,1.9500
+752,74,Consolidated,Consolidated Laundry Detergent,0.8500
+754,80,Cormorant,Cormorant 60 Watt Lightbulb,2.5700
+756,56,Cormorant,Cormorant Plastic Spoons,2.6800
+758,101,Cormorant,Cormorant C-Size Batteries,3.1900
+760,101,Cormorant,Cormorant AAA-Size Batteries,1.8700
+762,55,Cormorant,Cormorant Paper Cups,3.7000
+764,22,Cormorant,Cormorant Toilet Bowl Cleaner,3.8100
+766,22,Cormorant,Cormorant Glass Cleaner,0.6200
+768,101,Cormorant,Cormorant AA-Size Batteries,2.7600
+770,18,Cormorant,Cormorant Paper Towels,1.8300
+772,18,Cormorant,Cormorant Scented Tissue,1.9400
+774,18,Cormorant,Cormorant Tissues,2.4500
+776,20,Cormorant,Cormorant Room Freshener,3.8900
+778,87,Cormorant,Cormorant Copper Cleaner,2.7200
+780,87,Cormorant,Cormorant Silver Cleaner,2.8400
+782,85,Cormorant,Cormorant Economy Toilet Brush,2.3400
+784,42,Cormorant,Cormorant Large Sponge,0.5200
+786,65,Footnote,Footnote Extra Lean Hamburger,0.9700
+788,104,Excel,Excel Monthly Sports Magazine,0.5500
+790,107,Excel,Excel Monthly Computer Magazine,0.7700
+792,106,Excel,Excel Monthly Fashion Magazine,2.1300
+794,61,Ebony,Ebony Corn on the Cob,1.2000
+796,61,Ebony,Ebony Sweet Peas,1.3200
+798,61,Ebony,Ebony Beets,2.7100
+800,61,Ebony,Ebony Onions,3.2600
+802,61,Ebony,Ebony Shitake Mushrooms,2.9900
+804,61,Ebony,Ebony Elephant Garlic,2.2100
+806,61,Ebony,Ebony Garlic,2.6000
+808,61,Ebony,Ebony Cauliflower,1.3900
+810,61,Ebony,Ebony Mushrooms,0.5700
+812,61,Ebony,Ebony Dried Mushrooms,3.3400
+814,61,Ebony,Ebony Squash,1.7300
+816,67,Ebony,Ebony Firm Tofu,2.2900
+818,99,Ebony,Ebony Macintosh Apples,1.3500
+820,99,Ebony,Ebony Red Delcious Apples,0.7000
+822,99,Ebony,Ebony Fancy Plums,1.8600
+824,99,Ebony,Ebony Peaches,2.1100
+826,99,Ebony,Ebony Mandarin Oranges,1.8300
+828,1,Ebony,Ebony Canned Peanuts,1.2900
+830,99,Ebony,Ebony Cantelope,2.4500
+832,99,Ebony,Ebony Fuji Apples,3.2400
+834,99,Ebony,Ebony Oranges,2.9600
+836,1,Ebony,Ebony Party Nuts,1.1800
+838,2,Curlew,Curlew Scallops,2.5800
+840,12,Nationeel,Nationeel BBQ Potato Chips,1.3700
+842,12,Nationeel,Nationeel Low Fat BBQ Chips,3.2000
+844,45,Nationeel,Nationeel Chocolate Chip Cookies,3.3100
+846,45,Nationeel,Nationeel Fudge Brownies,1.7100
+848,45,Nationeel,Nationeel Lemon Cookies,2.2600
+850,82,Nationeel,Nationeel Cheese Crackers,1.3300
+852,54,Nationeel,Nationeel No Salt Popcorn,0.6900
+854,83,Nationeel,Nationeel Salsa Dip,1.6000
+856,46,Nationeel,Nationeel Salted Pretzels,2.3900
+858,83,Nationeel,Nationeel Fondue Mix,2.2200
+860,17,Nationeel,Nationeel Beef Jerky,2.3400
+862,12,Nationeel,Nationeel Low Fat Chips,2.7300
+864,45,Nationeel,Nationeel Frosted Cookies,1.6300
+866,109,Nationeel,Nationeel Apple Fruit Roll,3.4600
+868,109,Nationeel,Nationeel Raspberry Fruit Roll,3.5800
+870,109,Nationeel,Nationeel Dried Dates,1.9700
+872,109,Nationeel,Nationeel Golden Raisins,2.5200
+874,84,Nationeel,Nationeel Frosted Donuts,1.5900
+876,36,Thresher,Thresher Mint Chocolate Bar,1.7100
+878,36,Thresher,Thresher Semi-Sweet Chocolate Bar,1.8700
+880,38,Thresher,Thresher Spicy Mints,3.6500
+882,36,Thresher,Thresher White Chocolate Bar,2.4900
+884,5,Monarch,Monarch Manicotti,2.6000
+886,57,Monarch,Monarch Thai Rice,3.1100
+888,5,Discover,Discover Ravioli,0.8800
+890,5,Discover,Discover Spaghetti,2.6100
+892,57,Discover,Discover Rice Medly,2.7300
+894,44,Pearl,Pearl Light Wine,0.5700
+896,44,Pearl,Pearl Chablis Wine,2.6800
+898,44,Pearl,Pearl Chardonnay,1.7400
+900,43,Pearl,Pearl Light Beer,1.8600
+902,27,Fantastic,Fantastic White Bread,0.9700
+904,26,Fantastic,Fantastic English Muffins,1.5000
+906,26,Fantastic,Fantastic Muffins,0.6300
+908,26,Fantastic,Fantastic Blueberry Muffins,0.6900
+910,49,BBB Best,BBB Best Sesame Oil,1.8400
+912,51,BBB Best,BBB Best Hot Chocolate,2.6300
+914,50,BBB Best,BBB Best White Sugar,2.4600
+916,90,BBB Best,BBB Best Decaf Coffee,2.5700
+918,49,BBB Best,BBB Best Vegetable Oil,2.9700
+920,48,BBB Best,BBB Best Tomato Sauce,0.7300
+922,33,BBB Best,BBB Best Grape Preserves,2.5900
+924,31,BBB Best,BBB Best Strawberry Jelly,2.7000
+926,33,BBB Best,BBB Best Low Fat Apple Butter,0.5600
+928,33,BBB Best,BBB Best Apple Butter,1.6500
+930,31,BBB Best,BBB Best Apple Jelly,1.4800
+932,32,BBB Best,BBB Best Apple Jam,1.5900
+934,53,BBB Best,BBB Best Creamy Peanut Butter,1.1000
+936,53,BBB Best,BBB Best Extra Chunky Peanut Butter,2.7800
+938,31,BBB Best,BBB Best Grape Jelly,1.6100
+940,52,Fabulous,Fabulous Mango Drink,2.8400
+942,19,Fabulous,Fabulous Cream Soda,2.3400
+944,19,Fabulous,Fabulous Cola,0.8800
+946,30,Fabulous,Fabulous Orange Juice,2.8500
+948,30,Fabulous,Fabulous Apple Juice,2.9600
+950,35,Special,Special Oatmeal,3.4700
+952,35,Special,Special Wheat Puffs,2.9100
+954,62,Just Right,Just Right Canned Beets,1.7400
+956,62,Just Right,Just Right Canned String Beans,1.2000
+958,62,Just Right,Just Right Canned Yams,1.3600
+960,62,Just Right,Just Right Canned Tomatos,2.1500
+962,58,Just Right,Just Right Regular Ramen Soup,1.8700
+964,58,Just Right,Just Right Turkey Noodle Soup,1.9900
+966,62,Just Right,Just Right Canned Peas,2.4900
+968,93,Just Right,Just Right Canned Tuna in Water,1.2800
+970,94,Just Right,Just Right Large Canned Shrimp,3.1100
+972,96,Just Right,Just Right Fancy Canned Clams,2.2300
+974,98,Just Right,Just Right Fancy Canned Sardines,0.7900
+976,3,Big City,Big City Canned Mixed Fruit,1.1700
+978,89,Symphony,Symphony Rosy Sunglasses,1.6000
+980,102,James Bay,James Bay City Map,1.7200
+982,14,Even Better,Even Better Low Fat Sour Cream,2.8800
+984,11,Even Better,Even Better Jack Cheese,0.8100
+986,11,Even Better,Even Better String Cheese,3.5000
+988,11,Even Better,Even Better Havarti Cheese,3.6100
+990,11,Even Better,Even Better Cheese Spread,3.1200
+992,11,Even Better,Even Better Mild Cheddar Cheese,1.7900
+994,76,Even Better,Even Better 2% Milk,0.7900
+996,76,Even Better,Even Better Chocolate Milk,0.8500
+998,76,Even Better,Even Better Whole Milk,1.2500
+1000,6,Even Better,Even Better Blueberry Yogurt,2.6900

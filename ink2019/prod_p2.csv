@@ -1,0 +1,152 @@
+product_id,product_class_id,brand_name,product_name,price
+200,99,High Top,High Top Fancy Plums,2.6500
+202,99,High Top,High Top Peaches,1.4900
+204,99,High Top,High Top Mandarin Oranges,1.6000
+206,1,High Top,High Top Canned Peanuts,2.1100
+208,99,High Top,High Top Cantelope,2.4700
+210,99,High Top,High Top Fuji Apples,1.5400
+212,99,High Top,High Top Oranges,1.6600
+214,1,High Top,High Top Party Nuts,2.8200
+216,2,Tip Top,Tip Top Scallops,3.6000
+218,12,Best Choice,Best Choice BBQ Potato Chips,3.4400
+220,12,Best Choice,Best Choice Low Fat BBQ Chips,2.5500
+222,45,Best Choice,Best Choice Chocolate Chip Cookies,3.9500
+224,45,Best Choice,Best Choice Fudge Brownies,1.7300
+226,45,Best Choice,Best Choice Lemon Cookies,0.7600
+228,82,Best Choice,Best Choice Cheese Crackers,0.8200
+230,54,Best Choice,Best Choice No Salt Popcorn,1.1900
+232,83,Best Choice,Best Choice Salsa Dip,2.6300
+234,46,Best Choice,Best Choice Salted Pretzels,2.7000
+236,83,Best Choice,Best Choice Fondue Mix,1.8100
+238,17,Best Choice,Best Choice Beef Jerky,1.9700
+240,12,Best Choice,Best Choice Low Fat Chips,0.8600
+242,45,Best Choice,Best Choice Frosted Cookies,2.5900
+244,109,Best Choice,Best Choice Apple Fruit Roll,2.7000
+246,109,Best Choice,Best Choice Raspberry Fruit Roll,3.2100
+248,109,Best Choice,Best Choice Dried Dates,0.8600
+250,109,Best Choice,Best Choice Golden Raisins,2.5900
+252,84,Best Choice,Best Choice Frosted Donuts,2.7100
+254,36,Choice,Choice Mint Chocolate Bar,0.5600
+256,36,Choice,Choice Semi-Sweet Chocolate Bar,2.6500
+258,38,Choice,Choice Spicy Mints,1.7200
+260,36,Choice,Choice White Chocolate Bar,1.8400
+262,5,Medalist,Medalist Manicotti,1.3400
+264,57,Medalist,Medalist Thai Rice,2.7800
+266,43,Good,Good Imported Beer,1.6200
+268,44,Good,Good Chardonnay Wine,1.7300
+270,44,Good,Good Merlot Wine,2.2400
+272,44,Good,Good White Zinfandel Wine,3.9100
+274,27,Great,Great Pumpernickel Bread,3.7400
+276,27,Great,Great Rye Bread,3.8600
+278,26,Great,Great Cranberry Muffins,3.3600
+280,25,Great,Great Bagels,1.8100
+282,27,Great,Great Wheat Bread,0.9300
+284,53,Super,Super Chunky Peanut Butter,0.9900
+286,50,Super,Super Brown Sugar,1.4200
+288,90,Super,Super French Roast Coffee,2.8600
+290,90,Super,Super Regular Coffee,1.7000
+292,49,Super,Super Corn Oil,1.8100
+294,49,Super,Super Canola Oil,1.3200
+296,90,Super,Super Columbian Coffee,0.5000
+298,4,Super,Super Pepper,2.8300
+300,4,Super,Super Salt,2.9400
+302,4,Super,Super Oregano,3.4500
+304,32,Super,Super Grape Jam,1.8900
+306,32,Super,Super Strawberry Jam,3.9600
+308,33,Super,Super Strawberry Preserves,2.1800
+310,33,Super,Super Apple Preserves,0.7600
+312,30,Excellent,Excellent Berry Juice,2.1300
+314,52,Excellent,Excellent Strawberry Drink,1.8500
+316,19,Excellent,Excellent Diet Soda,1.3100
+318,19,Excellent,Excellent Diet Cola,2.4700
+320,30,Excellent,Excellent Cranberry Juice,3.2600
+322,52,Excellent,Excellent Apple Drink,2.9800
+324,35,Best,Best Corn Puffs,1.9700
+326,35,Best,Best Grits,2.4700
+328,62,Better,Better Creamed Corn,1.2600
+330,58,Better,Better Chicken Soup,3.9800
+332,58,Better,Better Vegetable Soup,2.2100
+334,58,Better,Better Noodle Soup,0.7800
+336,58,Better,Better Chicken Noodle Soup,1.1500
+338,58,Better,Better Beef Soup,0.5700
+340,58,Better,Better Chicken Ramen Soup,0.6300
+342,93,Better,Better Canned Tuna in Oil,1.5000
+344,95,Better,Better Fancy Canned Anchovies,2.2800
+346,97,Better,Better Fancy Canned Oysters,2.1200
+348,58,Better,Better Rice Soup,1.2300
+350,3,Swell,Swell Canned Peaches,1.6300
+352,103,Black Tie,Black Tie Eyeglass Screwdriver,0.6700
+354,15,Carlson,Carlson Low Fat Cottage Cheese,2.2500
+356,14,Carlson,Carlson Sour Cream,2.3600
+358,11,Carlson,Carlson Muenster Cheese,3.7500
+360,11,Carlson,Carlson Low Fat String Cheese,1.3100
+362,11,Carlson,Carlson Head Cheese,3.9700
+364,11,Carlson,Carlson Sharp Cheddar Cheese,2.2000
+366,15,Carlson,Carlson Large Curd Cottage Cheese,2.3600
+368,76,Carlson,Carlson Buttermilk,1.1400
+370,76,Carlson,Carlson 1% Milk,0.9200
+372,6,Carlson,Carlson Strawberry Yogurt,3.9800
+374,81,Moms,Moms Chicken Hot Dogs,1.4900
+376,91,Moms,Moms Beef Bologna,2.2700
+378,81,Moms,Moms Turkey Hot Dogs,1.1100
+380,16,Moms,Moms Low Fat Cole Slaw,1.2200
+382,77,Moms,Moms Roasted Chicken,1.6200
+384,8,Moms,Moms Sliced Turkey,0.5400
+386,16,Moms,Moms Potato Salad,2.2300
+388,66,Urban,Urban Small Brown Eggs,2.3500
+390,66,Urban,Urban Small Eggs,3.7400
+392,66,Urban,Urban Egg Substitute,1.3000
+394,110,Big Time,Big Time Orange Popsicles,3.1300
+396,29,Big Time,Big Time Frozen Pancakes,3.2400
+398,64,Big Time,Big Time Frozen Sausage Pizza,0.8000
+400,63,Big Time,Big Time Fajita French Fries,1.4300
+402,64,Big Time,Big Time Frozen Pepperoni Pizza,1.1300
+404,64,Big Time,Big Time Frozen Mushroom Pizza,1.2500
+406,60,Big Time,Big Time Frozen Carrots,1.6400
+408,10,Big Time,Big Time Chicken TV Dinner,2.2000
+410,28,Big Time,Big Time Pancake Mix,1.2600
+412,63,Big Time,Big Time Home Style French Fries,1.3800
+414,9,Big Time,Big Time Ice Cream,2.7700
+416,60,Big Time,Big Time Frozen Cauliflower,3.3200
+418,60,Big Time,Big Time Frozen Corn,3.1600
+420,9,Big Time,Big Time Popsicles,2.2700
+422,100,Big Time,Big Time Frozen Chicken Wings,3.6700
+424,78,Steady,Steady Silky Smooth Hair Conditioner,1.4500
+426,39,Steady,Steady Whitening Toothpast,0.6000
+428,39,Steady,Steady Deodorant,0.6700
+430,79,Steady,Steady Extra Moisture Shampoo,1.8000
+432,79,Steady,Steady Apricot Shampoo,2.3500
+434,70,Steady,Steady Buffered Aspirin,1.4200
+436,72,Steady,Steady 200 MG Acetominifen,1.5300
+438,73,Steady,Steady Dishwasher Detergent,1.9300
+440,75,Steady,Steady Childrens Cold Remedy,0.6700
+442,74,Steady,Steady Mint Mouthwash,2.2400
+444,56,Red Wing,Red Wing Plastic Forks,2.5900
+446,56,Red Wing,Red Wing Plastic Knives,3.7500
+448,80,Red Wing,Red Wing 100 Watt Lightbulb,1.5400
+450,55,Red Wing,Red Wing Paper Plates,3.3700
+452,80,Red Wing,Red Wing 75 Watt Lightbulb,2.4800
+454,22,Red Wing,Red Wing Counter Cleaner,0.9300
+456,80,Red Wing,Red Wing 25 Watt Lightbulb,2.6700
+458,101,Red Wing,Red Wing D-Size Batteries,1.5000
+460,18,Red Wing,Red Wing Soft Napkins,1.6100
+462,18,Red Wing,Red Wing Toilet Paper,2.1200
+464,18,Red Wing,Red Wing Scented Toilet Tissue,3.5600
+466,40,Red Wing,Red Wing Frying Pan,2.6300
+468,47,Red Wing,Red Wing Bees Wax Candles,1.7400
+470,86,Red Wing,Red Wing Copper Pot Scrubber,2.9000
+472,41,Red Wing,Red Wing Scissors,0.8200
+474,41,Red Wing,Red Wing Screw Driver,3.5200
+476,65,Quick,Quick Seasoned Hamburger,3.6400
+478,108,Dollar,Dollar Monthly Auto Magazine,2.9100
+480,105,Dollar,Dollar Monthly Home Magazine,1.6900
+482,61,Tell Tale,Tell Tale Summer Squash,0.7300
+484,61,Tell Tale,Tell Tale Asparagus,3.6400
+486,61,Tell Tale,Tell Tale New Potatos,1.1400
+488,61,Tell Tale,Tell Tale Prepared Salad,2.5900
+490,61,Tell Tale,Tell Tale Green Pepper,1.6500
+492,61,Tell Tale,Tell Tale Lettuce,1.7700
+494,61,Tell Tale,Tell Tale Red Pepper,1.9300
+496,61,Tell Tale,Tell Tale Potatos,0.8400
+498,61,Tell Tale,Tell Tale Tomatos,2.5500
+500,61,Tell Tale,Tell Tale Baby Onion,2.6600
